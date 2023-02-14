@@ -10,18 +10,13 @@ Dynamic Examples: JavaScript, Python, Ruby, PHP
 
 2. ### PRO'S AND CON'S
 
-PROS:
-More Robust
-Easily Spot Bugs
-Predictability
-Readability
-Popular
+## | PROS | CONS |
 
-CONS:
-More Code To Write
-More To Learn
-Required Compilation
-Not True Static Typing
+More Robust | More Code To Write |
+Easily Spot Bugs | More To Learn |
+Predictability | Required Compilation |
+Readability | Not True Static Typing |
+Popular | |
 
 3. ### Compiling TypeScript
 
